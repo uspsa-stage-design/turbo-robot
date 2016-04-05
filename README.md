@@ -1,7 +1,7 @@
 # Turbo Robot
 USPSA Stage designed by Andrew Roth
 
-![](img/1.PNG?raw=true)
+![](img/iso.PNG?raw=true)
 
 ##Rules
 USPSA Handbook, Latest Edition
