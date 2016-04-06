@@ -28,9 +28,9 @@ Audible - Last Shot
 Per Current edition USPSA Handbook
 
 ##Stage Setup (Not to be shown in WSB)
-* The right 3 sets of targets should be visible from the rear fault line by leaning past the wall
+* The right 3 sets of targets should be visible from the rear fault line by leaning past the wall. Ensure targets are placed such that there are no possibilities for a bullet hitting 2 targets.
 * The right-near and right-middle sets of targets should be visible from the right port
 * Standing at the right port, the left-near set of targets should be visible through left-near port
 * The right-middle and right-far sets of targets should be visible from break in wall on right side
 * Standing at break in wall on right side, the left-far set of targets should be visible through left-far port
-* Steel targets should be at least 26' from fault line as per rule 2.1.3. An "off-limits" line should be placed 3 feet in front of the far fault line as per rule 2.2.1.5. If the shooter moves past the off-limits line they shall receive a zero for the stage and if a shot is fired less than 23' from a steel target they shall receive a match disqualification.
+* Steel targets should be at least 26' from fault line as per rule 2.1.3. An "off-limits" line should be placed 23' from the steel as per rule 2.2.1.5. If the shooter moves past the off-limits line they shall receive a zero for the stage and if a shot is fired less than 23' from a steel target they shall receive a match disqualification.
