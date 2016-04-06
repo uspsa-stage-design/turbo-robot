@@ -27,7 +27,7 @@ Audible - Last Shot
 ##Penalties
 Per Current edition USPSA Handbook
 
-##Stage Setup
+##Stage Setup (Not to be shown in WSB)
 * The right 3 sets of targets should be visible from the rear fault line by leaning past the wall
 * The right-near and right-middle sets of targets should be visible from the right port
 * Standing at the right port, the left-near set of targets should be visible through left-near port
